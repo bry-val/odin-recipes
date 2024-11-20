@@ -1,0 +1,1 @@
+I've reviewed basic HTML. The completion of this project is an effort to go through the Odin project to fill in any gaps in my learning.
